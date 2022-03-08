@@ -102,6 +102,28 @@ Je hebt nu dus die afbeelding maar wat als we nou text op die afbeelding willen 
 
 ## FAQ
 Daan ik heb je betrapt op het niet volledig formuleren van Nederlandse zinnen en er zitten ook spelvauten in je turtorial.
+> Maak er maar een tutorial over, misschien dat ik hem ooit nog lees.
+
+Er klopt geen hol van!
+> Waar niet van? Stuur maar even een berichtje op Telegram ofzo, zal ik er wel even naar kijken.
+
+Die capibara's beginnen me nu wel een keer de keel uit te hangen hoor.
+> jouw gezeur hangt mij ook de keel uit. Je gaat capibara's in je banner zetten en rap wat!
+
+Ja, maar de foto van mijn hond...
+> Capibara. Banner. STAT!
+
+Ik ben niet zo van deze stijl tutorials. Ik zoek liever wat anders.
+> Dikke vette prima! Hoe jij het beste leert is wat je voor jezelf moet uitmaken. ACF hefet prima documentatie met veel voorbeelden. Youtube zal ongetwijfeld ook vol staan met handige filmpjes. Kies wat leuks uit. 
+
+Ik vind dit allemaal wel heel informeel klinken.
+> Ik werk niet bij de LOI. Je doet het er maar mee.
+
+Ik vond het best leuk.
+> bedankt voor het meespelen. 
+
+Ik geef graag feedback!
+> Ik ontvang graag feedback. Je weet me te vinden op Telegram en anders vraag je maar even rond of iemand weet waar je die mafkees van die capibaras kan bereiken.
 
 
 
