@@ -8,10 +8,10 @@ We gaan proberen het voor elkaar te krijgen een bannerafbeelding te laten zien d
 
 ![image](https://user-images.githubusercontent.com/78969608/157193503-258f3b12-a98b-4ad0-8d38-dd036973a37e.png)
 
-Kijk gerust even door alle opties en knopjes en weetikveelwat ACF allemaal voor moois te bieden heeft. En als je zover bent dan gaan we onze eerste groep aanmaken door op de bovenstaande knop te klikken. Een groep is een manier om onze rotzooi wat te organiseren. Dus stel je voor ik ga allemaal spannende dingen doen met die bannerafbeelding die we zo gaan maken dan zouden we deze groep banner kunnen noemen en daar al onze velden onderbrengen die betrekking hebben op onze banner. Maar voor nu doen we het mooi rustig aan en beginnen we met 1 veld in onze groep.
-
-
-
+Kijk gerust even door alle opties en knopjes en weetikveelwat ACF allemaal voor moois te bieden heeft. En als je zover bent dan gaan we onze eerste groep aanmaken door op de bovenstaande knop te klikken. Een groep is een manier om onze rotzooi wat te organiseren. Dus stel je voor ik ga allemaal spannende dingen doen met die bannerafbeelding die we zo gaan maken dan zouden we deze groep banner kunnen noemen en daar al onze velden onderbrengen die betrekking hebben op onze banner. Maar voor nu doen we het mooi rustig aan en beginnen we met 1 veld in onze groep.  
+  
+  
+  
 ![image](https://user-images.githubusercontent.com/78969608/157193580-fef0abde-f786-451e-a6eb-4f1cc4a17f11.png)
 
 
