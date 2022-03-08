@@ -97,6 +97,7 @@ En voila! Een echte bannerafbeelding die je zelf in het thema hebt gezet. Dat he
 Goed gedaan!
 
 ![image](https://user-images.githubusercontent.com/78969608/157296883-15687e7d-4968-41c0-b6b3-233be5c6a1da.png)
+
 Nu mag je Joost of Patrick op telegram appen om te laten zien dat je coole shit gemaakt hebt. En die zullen je dan een schouderklopje geven. En namens mij ook een digitaal schouderklopje. Ik hoop dat je er wat aan hebt gehad.
 
 ## Doe het zelf idee
