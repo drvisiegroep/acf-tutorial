@@ -101,7 +101,7 @@ Goed gedaan!
 Nu mag je Joost of Patrick op telegram appen om te laten zien dat je coole shit gemaakt hebt. En die zullen je dan een schouderklopje geven. En namens mij ook een digitaal schouderklopje. Ik hoop dat je er wat aan hebt gehad.
 
 ## Doe het zelf idee
-Je hebt nu dus die afbeelding maar wat als we nou text op die afbeelding willen hebben staan? Kan je zelf een veld maken waar je tekst in kan voeren en die op die afbeelding laten zien?
+Je hebt nu dus die afbeelding maar wat als we nou tekst op die afbeelding willen hebben staan? Kan je zelf een veld maken waar je tekst in kan voeren en die op die afbeelding laten zien?
 
 ## FAQ
 Daan ik heb je betrapt op het niet volledig formuleren van Nederlandse zinnen en er zitten ook spelvauten in je turtorial.
