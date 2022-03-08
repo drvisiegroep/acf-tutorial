@@ -117,7 +117,7 @@ Ja, maar de foto van mijn hond...
 > Capibara. Banner. STAT!
 
 Ik ben niet zo van deze stijl tutorials. Ik zoek liever wat anders.
-> Dikke vette prima! Hoe jij het beste leert is wat je voor jezelf moet uitmaken. ACF hefet prima documentatie met veel voorbeelden. Youtube zal ongetwijfeld ook vol staan met handige filmpjes. Kies wat leuks uit. 
+> Dikke vette prima! Hoe jij het beste leert is wat je voor jezelf moet uitmaken. ACF heeft prima [documentatie](https://www.advancedcustomfields.com/resources/) met veel voorbeelden. Youtube zal ongetwijfeld ook vol staan met handige filmpjes. Kies wat leuks uit. 
 
 Ik vind dit allemaal wel heel informeel klinken.
 > Ik werk niet bij de LOI. Je doet het er maar mee.
