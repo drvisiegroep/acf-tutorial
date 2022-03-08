@@ -43,7 +43,7 @@ De rest van de opties laten we voor wat ze zijn. Maar speel er mee als je er fee
 En dan nu het ALLER ALLERBELANGRIJKSTE! Niet vergeten te saven. Anders moeten we weer alles opnieuw doen en we zijn druk en hebben meer te doen. 
 
 ![image](https://user-images.githubusercontent.com/78969608/157194474-72e58542-cdc3-4b65-899a-a9775d4dade4.png)
-Ok klaar. Je hebt je eerste veld gemaakt. Mooi toch. Lekker veldjes maken. Hoe voelt dat nou? Beetje tevreden? Alles wat je ervan had verwacht? Wat? Nee? Sommige mensen zijn ook nooit tevreden. Ok dan gaan we nog even door. We hebben dus net ons veldje aangemaakt en toen hebben we ACF verteld dat we ons veldje graag willen zie op een pagina. Dus daar gaan we dan maar naar kijken of ACF ook alles doet wat 'ie beloofd. En waarsachtig er staat nu onderaan in de editor voor een pagina een veld wat er normaal niet staat. En het is ook nog een veld waar we een afbeelding kunnen selecteren. Mooi man!
+Ok klaar. Je hebt je eerste veld gemaakt. Mooi toch. Lekker veldjes maken. Hoe voelt dat nou? Beetje tevreden? Alles wat je ervan had verwacht? Wat? Nee? Sommige mensen zijn ook nooit tevreden. Ok dan gaan we nog even door. We hebben dus net ons veldje aangemaakt en toen hebben we ACF verteld dat we ons veldje graag willen zie op een pagina. Dus daar gaan we dan maar naar kijken of ACF ook alles doet wat 'ie beloofd. En waarachtig er staat nu onderaan in de editor voor een pagina een veld wat er normaal niet staat. En het is ook nog een veld waar we een afbeelding kunnen selecteren. Mooi man!
 
 
 ![image](https://user-images.githubusercontent.com/78969608/157194527-bc25e9d5-16b6-484e-b00f-7f5497c22e44.png)
@@ -76,7 +76,7 @@ Weet je nog dat ik zei dat onze veld naam een van de belanghrijkste dingen van o
 
 ![image](https://user-images.githubusercontent.com/78969608/157202705-ed4151bf-4c59-4248-9261-ed4ccf3f5e20.png)
 
-Ok fijn. We hebben nu een variabele waar onze URL in staat, nu nog de HTML. We maken voor het gemak even een dov mete en class aan om onze img tag in te zetten en dan echo-en we vervolgens onze variabele. Als het allemaal nog wat onzeker voelt dan typ je deze code gewoon over. Maar ik neem aan dat je ongeveer snapt wat er zometeen gaat gebeuren. Onze variabele gaat zometeen de URL van het plaatje weergeven wat we op onze pagina hebben geselecteerd. Dit plaatje staat gewoon in de media library en die worden gewoon ergens opgeslagen en die URL gaan we zometeen zien. Goed dan, vergeet niet te saven. en dan gaan we nu kijken of we EINDELIJK iets op de pagina zien.
+Ok fijn. We hebben nu een variabele waar onze URL in staat, nu nog de HTML. We maken voor het gemak even een div met een class aan om onze img tag in te zetten en dan echo-en we vervolgens onze variabele. Als het allemaal nog wat onzeker voelt dan typ je deze code gewoon over. Maar ik neem aan dat je ongeveer snapt wat er zometeen gaat gebeuren. Onze variabele gaat zometeen de URL van het plaatje weergeven wat we op onze pagina hebben geselecteerd. Dit plaatje staat gewoon in de media library en die worden gewoon ergens opgeslagen en die URL gaan we zometeen zien. Goed dan, vergeet niet te saven. en dan gaan we nu kijken of we EINDELIJK iets op de pagina zien.
 
 ![image](https://user-images.githubusercontent.com/78969608/157201021-f882c7a7-3dbe-4815-b040-2ba7a3ab6635.png)
 
