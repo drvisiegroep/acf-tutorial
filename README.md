@@ -67,6 +67,6 @@ https://www.advancedcustomfields.com/resources/get_field/
 ![image](https://user-images.githubusercontent.com/78969608/157203283-87ef5f48-4910-44e5-a306-722e385bf0e3.png)
 
 
-![image](https://user-images.githubusercontent.com/78969608/157203477-b408cb95-cce0-413e-b5ae-fc549fd6c8c3.png)
+
 
 
