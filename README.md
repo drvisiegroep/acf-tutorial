@@ -1,5 +1,7 @@
 # acf-tutorial
-basis acf tutorial
+##My-first-extra-veld
+
+Als je je wordpress in het Nederlands hebt staan wordt ACF vertaald naar 'Extra Velden'. Dus dat gaan we vandaag doen. Een extra veld aanmaken. Niets meer, niets minder. Gewoon een veldje maken wat er net nog niet was. Maar zometeen wel. Deze tutorial heeft niet bijzonder veel om het lijf en is bedoeld als een simpel voorbeeld waarop je ACF zou kunnen gebruiken. Als het goed is kan je deze tutorial gewoon volgen op de gratis versie van ACF. Dus start je server en laad je Wordpress site met ACF geïnstalleerd want 'hier wie go!'
 
 
 ![image](https://user-images.githubusercontent.com/78969608/157193503-258f3b12-a98b-4ad0-8d38-dd036973a37e.png)
