@@ -1,10 +1,13 @@
 # acf-tutorial
-##My-first-extra-veld
+## My-first-extra-veld
 
 Als je je wordpress in het Nederlands hebt staan wordt ACF vertaald naar 'Extra Velden'. Dus dat gaan we vandaag doen. Een extra veld aanmaken. Niets meer, niets minder. Gewoon een veldje maken wat er net nog niet was. Maar zometeen wel. Deze tutorial heeft niet bijzonder veel om het lijf en is bedoeld als een simpel voorbeeld waarop je ACF zou kunnen gebruiken. Als het goed is kan je deze tutorial gewoon volgen op de gratis versie van ACF. Dus start je server en laad je Wordpress site met ACF geïnstalleerd want 'hier wie go!'
 
+We gaan proberen het voor elkaar te krijgen een bannerafbeelding te laten zien die we per pagina aan kunnen passen. Dus tsel je maakt een pagina aan in wordpress, dan kunnen we daar een plaatje bij plakken die dan als bannerafbeelding gebruikt gaat worden.
+
 
 ![image](https://user-images.githubusercontent.com/78969608/157193503-258f3b12-a98b-4ad0-8d38-dd036973a37e.png)
+Kijk gerust even door alle opties en knopjes en weetikveelwat ACF allemaal voor moois te bieden heeft. En als je zover bent dan gaan we onze eerste groep aanmaken door op de bovenstaande knop te klikken. Een groep is een manier om onze rotzooi wat te organiseren. Dus stel je voor ik ga allemaal spannende dingen doen met die bannerafbeelding die we zo gaan maken dan zouden we deze groep banner kunnen noemen en daar al onze velden onderbrengen die betrekking hebben op onze banner. Maar voor nu doen we het mooi rustig aan en beginnen we met 1 veld in onze groep.
 
 
 ![image](https://user-images.githubusercontent.com/78969608/157193580-fef0abde-f786-451e-a6eb-4f1cc4a17f11.png)
