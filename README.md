@@ -42,6 +42,25 @@ basis acf tutorial
 
 
 ![image](https://user-images.githubusercontent.com/78969608/157196040-5762aa40-9cc6-49b4-b0a6-1e3711113878.png)
+https://www.advancedcustomfields.com/resources/get_field/
+
+
+![image](https://user-images.githubusercontent.com/78969608/157200336-e1403540-a9bb-4c73-85f7-626fed969991.png)
+![image](https://user-images.githubusercontent.com/78969608/157200433-cfdec423-2114-4d87-ace7-9dcd622c8264.png)
+
+
+![image](https://user-images.githubusercontent.com/78969608/157201021-f882c7a7-3dbe-4815-b040-2ba7a3ab6635.png)
+
+
+![image](https://user-images.githubusercontent.com/78969608/157201246-d884d7b7-121e-4916-810b-d0df1aaa882f.png)
+
+
+![image](https://user-images.githubusercontent.com/78969608/157202108-e9e2da79-aac5-4f3c-ba02-54ca03d2f304.png)
+
+
+![image](https://user-images.githubusercontent.com/78969608/157202250-e0b0ee1e-d95a-42d3-a3ae-13e33ec0f155.png)
+
+
 
 
 
