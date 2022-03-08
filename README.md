@@ -8,27 +8,31 @@ We gaan proberen het voor elkaar te krijgen een bannerafbeelding te laten zien d
 
 ![image](https://user-images.githubusercontent.com/78969608/157193503-258f3b12-a98b-4ad0-8d38-dd036973a37e.png)
 
-Kijk gerust even door alle opties en knopjes en weetikveelwat ACF allemaal voor moois te bieden heeft. En als je zover bent dan gaan we onze eerste groep aanmaken door op de bovenstaande knop te klikken. Een groep is een manier om onze rotzooi wat te organiseren. Dus stel je voor ik ga allemaal spannende dingen doen met die bannerafbeelding die we zo gaan maken dan zouden we deze groep banner kunnen noemen en daar al onze velden onderbrengen die betrekking hebben op onze banner. Maar voor nu doen we het mooi rustig aan en beginnen we met 1 veld in onze groep.  
+Kijk gerust even door alle opties en knopjes en weetikveelwat ACF allemaal voor moois te bieden heeft. En als je zover bent dan gaan we onze eerste [groep](https://www.advancedcustomfields.com/resources/group/) aanmaken door op de bovenstaande knop te klikken. Een groep is een manier om onze rotzooi wat te organiseren. Dus stel je voor ik ga allemaal spannende dingen doen met die bannerafbeelding die we zo gaan maken dan zouden we deze groep banner kunnen noemen en daar al onze velden onderbrengen die betrekking hebben op onze banner. Maar voor nu doen we het mooi rustig aan en beginnen we met 1 veld in onze groep.  
   
   
   
-![image](https://user-images.githubusercontent.com/78969608/157193580-fef0abde-f786-451e-a6eb-4f1cc4a17f11.png)
-
-
 ![image](https://user-images.githubusercontent.com/78969608/157193682-2caaa8a2-74d1-4506-9cf0-8f4043cdb600.png)
+
+Nu moeten we gaan bepalen waar we ons extra veld willen laten zien. We hebben... Ik bedoel IK heb bepaald dat we een bannerafbeelding gingen maken op een pagina. Dat betekent dus dat we moeten gaan uitzoeken hoe we een extra veld te zien krijgen op de editor van een pagina. 
+
+![image](https://user-images.githubusercontent.com/78969608/157193580-fef0abde-f786-451e-a6eb-4f1cc4a17f11.png)
 
 
 ![image](https://user-images.githubusercontent.com/78969608/157193858-eaa876c1-d2fe-4eb0-89af-569ae777885d.png)
 
+Hier komt wat Wordpress kennis om de hoek kijken. Je moet namelijk weten dat een pagina een [post type](https://wordpress.org/support/article/post-types/) is. Laat voor nu maar even de boel de boel en neem maar aan dat de post type gelijk moet zijn aan een pagina. Hiermee verschijnt zometeen ons eerste veld op magische wijze in de editor van een pagina die we aanmaken.
 
 ![image](https://user-images.githubusercontent.com/78969608/157193909-3cbe1557-6252-4b15-9458-4c7d3b6473c8.png)
 
-
+Geef voor de volledigheid de groep even een naam. Iets in de zin van: 'Mijn eerste mooie bannerafbeelding groep ding' Of een naam die meer van toepassing is. Verzin maar iets. Als je hem maar weer kan vinden. En dan gaan we een veld aanmaken. Klik maar op +nieuw veld.
 ![image](https://user-images.githubusercontent.com/78969608/157194101-efcacf7f-76fb-4a53-a890-22c8d01a54ca.png)
+Opties? Yup, weer opties. Meer onduidelijke lijsten vol met opties waar we nog niets vanaf weten. Maar op het eerste gezicht spreken de meeste waarschijnlijk wel voor zich. Kijk ze bij gelegenheid maar rustig door en probeer te raden waar ze voor zijn. Wij willen graag een afbeelding plaatsen op onze pagina dus kiezen we voor...
 
+Ja precies.
 
 ![image](https://user-images.githubusercontent.com/78969608/157194311-e8b29b8e-576d-4914-87da-2c81f0eb8680.png)
-
+OH MAY GAWD! NOG MEER OPTIES! Inderdaad, wen er maar aan... Dit lijkt in het begin misschien wat overweldigend maar hoe vaker je hiermee gaat knutselen hoe handiger je er mee om kan gaan. Het eerste veld is om de beschrijving te geven aan het veld dat we gaan gebruiken. Het tweede veld (veld naam) is een belangrijk veld. Hiermee gaan we later ons veld in de code ophalen. Deze naam wordt altijd gebruikt om onze velden aan te spreken. Hierdoor weet ACF wat we bedoelen als we die aanroepen in de code. Dan is er nog een belangrijke optie die we niet moeten vergeten en dat is hoe we onze output willen weergeven. Wij willen graag alles lekker simpel houden. Dus hoe krijgen we normaal gesproken een plaatje op een HTML pagina? Door een URL met een plaatje in een img tag te drukken. Waarom moeilijk doen als het makkelijk kan dus we willen graag de URL van ons plaatje.
 
 ![image](https://user-images.githubusercontent.com/78969608/157194474-72e58542-cdc3-4b65-899a-a9775d4dade4.png)
 
