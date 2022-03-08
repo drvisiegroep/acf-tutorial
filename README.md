@@ -89,9 +89,11 @@ HIJ IS ER! ONS PLAATJE! JAJA! Lekker bezig. Voelt goed he? Ok, het moet nog een 
 
 In de editor van je browser kan je nu ook zien wat er gebeurd. Hij geeft dus de URL van het plaatje door wat we hebben geselecteerd op de pagina. Om het nog wat op te leuken drukken we er nog een regeltje of 2 CSS bij. 
 ![image](https://user-images.githubusercontent.com/78969608/157202250-e0b0ee1e-d95a-42d3-a3ae-13e33ec0f155.png)
+
 En voila! Een echte bannerafbeelding die je zelf in het thema hebt gezet. Dat hele webdev gebeuren kan best leuk zijn hè? 
 
 ![image](https://user-images.githubusercontent.com/78969608/157203283-87ef5f48-4910-44e5-a306-722e385bf0e3.png)
+
 Goed gedaan!
 
 ![image](https://user-images.githubusercontent.com/78969608/157296883-15687e7d-4968-41c0-b6b3-233be5c6a1da.png)
